@@ -1,0 +1,14 @@
+﻿  chapter3.c
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(12): warning C4101: “d”: 未引用的局部变量
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(14): warning C4101: “e”: 未引用的局部变量
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(14): warning C4101: “w”: 未引用的局部变量
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(14): warning C4101: “d”: 未引用的局部变量
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(16): warning C4101: “b”: 未引用的局部变量
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(16): warning C4101: “c”: 未引用的局部变量
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(16): warning C4101: “d”: 未引用的局部变量
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(22): warning C4101: “a”: 未引用的局部变量
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(22): warning C4101: “x”: 未引用的局部变量
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(22): warning C4101: “d”: 未引用的局部变量
+f:\study\c\c和指针\chapter 3 数据\project3\project3\chapter3.c(34): warning C4716: “func2”: 必须返回一个值
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+F:\Study\C\C和指针\Chapter 3 数据\Project3\Debug\Project3.exe : fatal error LNK1120: 1 个无法解析的外部命令
